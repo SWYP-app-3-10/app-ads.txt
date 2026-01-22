@@ -1,0 +1,1 @@
+google.com, pub-5312046759396775, DIRECT, f08c47fec0942fa0
